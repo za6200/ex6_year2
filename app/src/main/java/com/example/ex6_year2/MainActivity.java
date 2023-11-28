@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void count(View view) {
+    public void count(View view ) {
         /**
          * function will count how many times the user clicked the button count
          * param view: when button clicked
